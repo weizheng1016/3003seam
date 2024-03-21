@@ -9,6 +9,11 @@ public class Result {
     int HCI;
 
 
+void hengheng()
+
+{
+System.out.println("heng ong huat");
+}
 
 void mkDASHABI()
 
